@@ -98,17 +98,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SterbenXIII&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SterbenXIII&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SterbenXIII&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SterbenXIII&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SterbenXIII&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 ---
 
