@@ -98,10 +98,10 @@
 
 ## 📊 GitHub Stats
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SterbenXIII&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
-</p>
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=SterbenXIII&theme=gotham" width="50%"  />
+</div>
+<br/>
 
 ---
 
